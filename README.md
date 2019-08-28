@@ -11,3 +11,6 @@ Arquivo com a configuração das versões e dependências do Selenium e JUnit.
 
 ## src/main/java/
 Pacote com as classes Page e Test.
+
+## Test Results - FakeNameTest.html
+Relatório de execução.
